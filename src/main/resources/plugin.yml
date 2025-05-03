@@ -1,0 +1,4 @@
+name: CFNoStasisChamber
+version: '${project.version}'
+main: ru.quizie.cfnostasischamber.CFNoStasisChamber
+api-version: '1.16'

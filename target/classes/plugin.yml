@@ -1,0 +1,4 @@
+name: CFNoStasisChamber
+version: '1.0.0'
+main: ru.quizie.cfnostasischamber.CFNoStasisChamber
+api-version: '1.16'
